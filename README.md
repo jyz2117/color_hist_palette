@@ -1,4 +1,4 @@
-this script generates a  simple analysis of an image, including:
+This script generates a simple analysis of an image, including:
 
 - thumbnail in the upper left corner
 - title
@@ -6,7 +6,7 @@ this script generates a  simple analysis of an image, including:
 - color score based on saturation, n pixels, and curved luminance value
 - static output form for easy comparison
 
-'''
+```
 Package         Version
 --------------- -----------
 colour-science  0.4.7  
@@ -23,4 +23,4 @@ pyparsing       3.3.2
 python-dateutil 2.9.0.post0  
 scipy           1.18.0  
 six             1.17.0  
-'''
+```
