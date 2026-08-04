@@ -6,19 +6,21 @@ this script generates a  simple analysis of an image, including:
 - color score based on saturation, n pixels, and curved luminance value
 - static output form for easy comparison
 
+'''
 Package         Version
 --------------- -----------
-colour-science  0.4.7
-contourpy       1.3.3
-cycler          0.12.1
-fonttools       4.63.0
-kiwisolver      1.5.0
-matplotlib      3.11.1
-numpy           2.5.1
-packaging       26.2
-pillow          12.3.0
-pip             26.2
-pyparsing       3.3.2
-python-dateutil 2.9.0.post0
-scipy           1.18.0
-six             1.17.0
+colour-science  0.4.7  
+contourpy       1.3.3  
+cycler          0.12.1  
+fonttools       4.63.0  
+kiwisolver      1.5.0  
+matplotlib      3.11.1  
+numpy           2.5.1  
+packaging       26.2  
+pillow          12.3.0  
+pip             26.2  
+pyparsing       3.3.2  
+python-dateutil 2.9.0.post0  
+scipy           1.18.0  
+six             1.17.0  
+'''
