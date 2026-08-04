@@ -6,6 +6,8 @@ This script generates a simple analysis of an image, including:
 - color score based on saturation, n pixels, and curved luminance value
 - static output form for easy comparison
 
+<img width="512" height="600" alt="wheel_Untitled-2" src="https://github.com/user-attachments/assets/d1de111f-499b-4edf-aee8-b8f1d9955ee2" />
+
 ```
 Package         Version
 --------------- -----------
